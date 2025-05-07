@@ -87,6 +87,6 @@ var results = await searchClient.Documents.SearchAsync<Produto>("caneca", parame
 
 ## Conclusão
 
-Azure Cognitive Search mostrou-se uma ferramenta poderosa mesmo para iniciantes como eu. Com um pouco de prática, consegui criar um sistema de busca funcional em poucas horas.
+Azure Cognitive Search mostrou-se uma ferramenta poderosa mesmo para iniciantes como eu. Com um pouco de prática, consegui criar um sistema de busca funcional em poucas horas, mas a ferrameta tem muitas outras funções a explorar.
 
 [Documentação Oficial](https://docs.microsoft.com/azure/search/)
